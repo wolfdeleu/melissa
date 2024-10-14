@@ -6,7 +6,7 @@
 > https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ## Erstellung des Handouts zur Nutzung von Git 20241014
-- Gemeinsame PDF zur Bearbeitung des Repositorys  
+- Gemeinsame PDF zur Bearbeitung des Repositorys (_melissa_ / __documentation__)
 
 ## Erstellung der ersten Projektordnern 20241014
 root Verzeichnis __melissa__
