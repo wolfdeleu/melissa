@@ -5,6 +5,15 @@
 > Syntax ReadMe
 > https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+## Verwendete Technologien
+- PHP
+- SCSS (CSS)
+- HTML
+- AJAX
+- JS
+- MySQL
+- Batch
+
 ## Erstellung des Handouts zur Nutzung von Git 20241014
 - Gemeinsame PDF zur Bearbeitung des Repositorys (_melissa_ / __documentation__)
 
