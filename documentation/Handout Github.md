@@ -140,7 +140,3 @@ Hier sind die wichtigsten Git-Befehle, die direkt in VS Code ausgeführt werden 
 - [Weitere Teammitglieder und deren Beiträge]
 
 ---
-
-Damit hast du eine Anleitung, wie Git in **VS Code** verwendet werden kann, und wie typische Workflows mit GitHub und Source Control direkt aus der IDE gesteuert werden.
-
-Wenn du noch Fragen hast oder Unterstützung beim Einfügen ins Repository brauchst, sag Bescheid!
