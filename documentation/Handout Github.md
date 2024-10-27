@@ -1,7 +1,3 @@
-Damit das Git-Handout spezifisch für die Verwendung von Git in **VS Code** ist, werde ich die Anleitung anpassen, um die Integration von Git mit **GitHub** und **Source Control** in **VS Code** zu erklären. Hier ist eine aktualisierte Version des Handouts, das du in deiner `README.md`-Datei verwenden kannst.
-
----
-
 # Git-Handout für Anfänger (VS Code Edition)
 
 ## Was ist Git und warum sollte es verwendet werden?
@@ -140,7 +136,3 @@ Hier sind die wichtigsten Git-Befehle, die direkt in VS Code ausgeführt werden 
 - [Weitere Teammitglieder und deren Beiträge]
 
 ---
-
-Damit hast du eine Anleitung, wie Git in **VS Code** verwendet werden kann, und wie typische Workflows mit GitHub und Source Control direkt aus der IDE gesteuert werden.
-
-Wenn du noch Fragen hast oder Unterstützung beim Einfügen ins Repository brauchst, sag Bescheid!
